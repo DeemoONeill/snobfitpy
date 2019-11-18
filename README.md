@@ -5,7 +5,7 @@ DOWNLOAD & INSTALL
 You can download the source code from PARK repository at danse.us: 
 
 1. Download the source code:
-   $ svn co svn://svn@danse.us/park/other/snobfit
+   $ git clone https://github.com/DeemoONeill/snobfitpy.git
 
 2. Install the snobfit package:
    python setup.py install
